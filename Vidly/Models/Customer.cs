@@ -8,6 +8,7 @@ namespace Vidly.Models
 {
     public class Customer
     {
+        //test
         public int Id { get; set; }
         [Required]
         [StringLength(255)]
